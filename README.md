@@ -1,2 +1,2 @@
 # hello-xamarin-android
-Teste no MVMC
+Teste no VSMC
